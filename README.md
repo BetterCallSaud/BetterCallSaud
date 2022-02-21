@@ -1,7 +1,11 @@
 # About me
 A little about me in images and code. For a better description, visit my LinkedIn profile.
 
-https://linkedin.com/in/saud-hashmi
+<a target="_blank" href="https://www.linkedin.com/in/saud-hashmi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+[![Twitter Follow](https://img.shields.io/twitter/follow/BtrCallSaud.svg?style=social)](https://twitter.com/BtrCallSaud)
+<a target="_blank" href="https://www.youtube.com/channel/UCnY5LtHJYHbY4yy5wOHlrgQ"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" height=25></a>
+<a target="_blank" href="https://saudhashmi.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a target="_blank" href="https://www.instagram.com/better.call.saud/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black" height=25></a>
 
 # Professional Information
 + Founder & CEO at [CSCult.in](https://cscult.in)
@@ -16,9 +20,9 @@ Ipso facto, I am interested in **anything that concerns the human race**.
 
 # Jack of all trades, master of none.
 ## Tech stack
-+ Python 🐍
-+ ReactJS ⚛
-+ Solidity 💠
++ `print("Python")` 🐍
++ `render(return("ReactJS"));` ⚛
++ `emit Solidity()` 💠
 + A little bit of everything. Really...
 
 ## Soft skills
