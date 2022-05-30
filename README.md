@@ -2,14 +2,14 @@
 A little about me in images and code. For a better description, visit my LinkedIn profile.
 
 <a target="_blank" href="https://www.linkedin.com/in/saud-hashmi/"><img src="https://img.shields.io/badge/LINKEDIN-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
-<a target="_blank" href="https://www.instagram.com/better.call.saud/"><img src="https://img.shields.io/badge/INSTAGRAM-violet?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>
+<a target="_blank" href="https://www.instagram.com/ctrl.alt.saud/"><img src="https://img.shields.io/badge/INSTAGRAM-violet?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCnY5LtHJYHbY4yy5wOHlrgQ"><img src="https://img.shields.io/badge/YOUTUBE-white?&style=for-the-badge&logo=youtube&logoColor=red" height=30></a>
 <a target="_blank" href="https://www.twitter.com/BtrCallSaud/"><img src="https://img.shields.io/badge/TWITTER-skyblue?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
 <a target="_blank" href="https://saudhashmi.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> 
 <a target="_blank" href="https://www.reddit.com/user/SuperbSaud"><img src="https://img.shields.io/badge/REDDIT-white?style=for-the-badge&logo=reddit" height=30></a> 
 
 # Professional Information
-+ Founder & CEO at [CSCult.in](https://cscult.in)
++ Founder at [CSCult.in](https://cscult.in)
 + Co-Founder at [56NFTs](https://instagram.com/56nfts)
 + Entrepreneur. Engineer. Explorer. *The three letter cliche, huh?*
 
