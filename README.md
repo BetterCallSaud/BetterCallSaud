@@ -9,8 +9,7 @@ A little about me in images and code. For a better description, visit my LinkedI
 <a target="_blank" href="https://www.reddit.com/user/SuperbSaud"><img src="https://img.shields.io/badge/REDDIT-white?style=for-the-badge&logo=reddit" height=30></a> 
 
 # Professional Information
-+ Founder at [CSCult.in](https://cscult.in)
-+ Co-Founder at [56NFTs](https://instagram.com/56nfts)
++ CTO & Co-Founder at [Stemble](https://stemble.xyz)
 + Entrepreneur. Engineer. Explorer. *The three letter cliche, huh?*
 
 # Interests
