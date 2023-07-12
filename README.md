@@ -1,5 +1,5 @@
 # About me
-A little about me in images and code. For a better description, visit my LinkedIn profile.
+Ignore everything below. Visit [my personal website](saudhashmi.com)
 
 <a target="_blank" href="https://www.linkedin.com/in/saud-hashmi/"><img src="https://img.shields.io/badge/LINKEDIN-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 <a target="_blank" href="https://www.instagram.com/ctrl.alt.saud/"><img src="https://img.shields.io/badge/INSTAGRAM-violet?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>
